@@ -1,3 +1,3 @@
 const fs = require("fs"); // file system
 
-fs.mkdir;
+fs.mkdir; // 22:26
